@@ -1,0 +1,2 @@
+# linearregressionhousing
+The project was based on to identify the variables affecting house prices, e.g. area, number of rooms, bathrooms, etc. The project was done using Pandas in Jupyter Notebook. Seaborn has been used to create a joint plot to compare correlation. Create a linear model that quantitatively relates house prices with variables such as number of rooms, area, number of bathrooms, etc. and find how well these variables can predict house prices.
